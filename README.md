@@ -1,4 +1,4 @@
-# Aplica-o-MApp
+# Aplicacao-MApp
 <br>
 
 <b>Aluno:</b>
